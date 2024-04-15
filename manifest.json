@@ -1,7 +1,7 @@
 {
 	"id": "dir-template",
 	"name": "Directory template",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.5.12",
 	"description": "Assign templates to a directory",
 	"author": "Scott Jungling",
